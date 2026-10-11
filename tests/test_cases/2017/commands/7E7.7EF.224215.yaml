@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.224215
+test_cases:
+- expected_values:
+    CT6_HVBAT_CMU53_VOLT: 3.54368
+  response: 7EF05624215B56F
+- expected_values:
+    CT6_HVBAT_CMU53_VOLT: 3.82498
+  response: 7EF05624215C3D6
+- expected_values:
+    CT6_HVBAT_CMU53_VOLT: 3.94995
+  response: 7EF05624215CA3C
+- expected_values:
+    CT6_HVBAT_CMU53_VOLT: 3.99748
+  response: 7EF05624215CCAB

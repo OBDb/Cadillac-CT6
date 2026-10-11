@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.22423E
+test_cases:
+- expected_values:
+    CT6_HVBAT_CMU94_VOLT: 3.5687
+  response: 7EF0562423EB6B7
+- expected_values:
+    CT6_HVBAT_CMU94_VOLT: 3.84497
+  response: 7EF0562423EC4DC
+- expected_values:
+    CT6_HVBAT_CMU94_VOLT: 3.90745
+  response: 7EF0562423EC80F
+- expected_values:
+    CT6_HVBAT_CMU94_VOLT: 3.99496
+  response: 7EF0562423ECC8A
