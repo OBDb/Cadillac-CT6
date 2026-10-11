@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.2243A5
+test_cases:
+- expected_values:
+    CT6_HVBAT_CHRG_CNT: 4200
+  response: 7EC056243A51068
+- expected_values:
+    CT6_HVBAT_CHRG_CNT: 4213
+  response: 7EC056243A51075
+- expected_values:
+    CT6_HVBAT_CHRG_CNT: 4425
+  response: 7EC056243A51149

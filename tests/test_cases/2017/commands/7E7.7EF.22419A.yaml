@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.22419A
+test_cases:
+- expected_values:
+    CT6_HVBAT_CMU26_VOLT: 3.62745
+  response: 7EF0562419AB9B9
+- expected_values:
+    CT6_HVBAT_CMU26_VOLT: 3.90997
+  response: 7EF0562419AC830
+- expected_values:
+    CT6_HVBAT_CMU26_VOLT: 3.94499
+  response: 7EF0562419AC9FB
+- expected_values:
+    CT6_HVBAT_CMU26_VOLT: 3.99245
+  response: 7EF0562419ACC69

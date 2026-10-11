@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.228334
+test_cases:
+- expected_values:
+    CT6_HVBAT_SOC_DISPLAY: 40.78431
+  response: 7EC0462833468
+- expected_values:
+    CT6_HVBAT_SOC_DISPLAY: 90.19608
+  response: 7EC04628334E6

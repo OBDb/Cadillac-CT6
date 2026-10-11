@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Cadillac_CT6"
+
+generations:
+  - name: "First Generation"
+    start_year: 2016
+    end_year: 2020
+    description: "A full-size sedan on the Omega platform with turbo four, V6 and twin-turbo V8 engines and a plug-in hybrid."
